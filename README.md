@@ -1,3 +1,15 @@
-# super_dolores
-
-A new Flutter project.
+![](SD_Ronda2_Exito.png)
+![](SD_Ronda2_Fallo.png)
+![](SD_Ronda2_Fallo-1.png)
+![](SD_Ronda12_vms_Test_Fallo.png) 
+![](SD_Ronda4_Eventos.png) 
+![](SD_Ronda5_Mensajeria.png) 
+![](SD_Ronda6_Comercio.png) 
+![](SD_Ronda7_Transporte.png) 
+![](SD_Ronda8_Miniapp.png) 
+![](SD_Ronda9_Fallo_En_Test.png) 
+![](SD_Ronda9_Lealtad.png) 
+![](SD_Ronda10_Analitica.png) 
+![](SD_Ronda11_Notificaciones.png) 
+![](SD_Ronda11_Sugerencias.png) 
+![](SD_Ronda12_Servicio_Exito.png)
